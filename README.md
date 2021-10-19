@@ -12,7 +12,7 @@
   {
     favLang = "LUA",
     bornIn  = "Portugal",
-    devWhat = "MTA",
+    devWhat = "MTA"
    }
    ```
  
