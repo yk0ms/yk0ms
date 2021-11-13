@@ -8,13 +8,14 @@
 
   ##
  
-  ```lua
-  smxky = 
-  {
-    favLang = "LUA",
-    bornIn  = "Portugal",
-    devWhat = "MTA"
-   }
+  ```python
+  import random
+  death = random.randint(60,90)
+  life = true
+  if life:
+    for i in range(death):
+      code()
+    
    ```
  
   ##
