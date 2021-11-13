@@ -11,11 +11,12 @@
   ```python
   import random
   death = random.randint(60,90)
-  life = true
-  if life:
-    for i in range(death):
-      code()
-    
+  
+  age = 16
+  
+  while age > death:
+    code()
+    age += 1
    ```
  
   ##
