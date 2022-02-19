@@ -12,7 +12,7 @@
   import random
   death = random.randint(60,90)
   
-  age = 16
+  age = 18
   
   while age > death:
     code()
