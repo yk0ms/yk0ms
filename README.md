@@ -9,14 +9,13 @@
   ##
  
   ```python
-  import random
-  death = random.randint(60,90)
-  
-  age = 18
-  
-  while age > death:
-    code()
-    age += 1
+  ┌──(root💀yk0ms)-[/yk0ms/.github]
+  └─# whoami 
+
+  nick: yk0ms
+  languages: Lua, Python
+  skills: Graphic & UI/UX designer, mechanic, developer  
+
    ```
  
   ##
