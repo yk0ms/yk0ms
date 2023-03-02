@@ -12,9 +12,9 @@
   ┌──(root💀yk0ms)-[/yk0ms/.github]
   └─# whoami 
 
-  nick: yk0ms
+  nick: yk0ms = smoky
   languages: Lua, Python
-  skills: Graphic & UI/UX designer, mechanic, developer  
+  skills: Graphic & UI/UX designer, mechanic, developer, pentester
 
    ```
  
