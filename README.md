@@ -12,8 +12,8 @@
   ┌──(root💀yk0ms)-[/yk0ms/.github]
   └─# whoami 
 
-  nick: yk0ms = smoky
-  languages: Lua, Python
+  nick: yk0ms = smØky
+  languages: Lua, Python, VB, JS
   skills: Graphic & UI/UX designer, mechanic, developer, pentester
 
    ```
